@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @wpaix
-- 👀 I’m interested in [code]
-- 🌱 I’m currently learning [more code]
-- 💞️ I’m looking to collaborate on [code]
-- 📫 How to reach me [also code]
+- 💼 I work at Milk Studio (https://milk-studio.dk/)
+- 👀 I’m interested in nice code, crisp design and great UX
+- 📫 Reach me at mail@williampaix.com
 
 <!---
 wpaix/wpaix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
